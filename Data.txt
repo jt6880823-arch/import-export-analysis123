@@ -1,0 +1,6 @@
+Country,Export,Import,Trade_Balance,Year
+USA,2500,2000,500,2023
+China,2200,1800,400,2023
+Germany,1500,1200,300,2023
+India,800,600,200,2023
+Brazil,400,300,100,2023
